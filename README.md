@@ -1,4 +1,6 @@
-# Deep Blue Divers Case Study
+# Discover and define Data Products in a Data Mesh way - workshops preread.
+This is a readme file with the case study and the theoretical introduction to concepts that we will use during the upcoming workshops. Please read it at least once prior to the workshops, this way it will be much easier for us to start the exercise quickly.
+## Deep Blue Divers Case Study
 ### Company Background:
 Deep Blue Divers is a renowned scuba diving training and certification organization operating globally, providing recreational and professional courses to individuals and dive centers. With a strong focus on safety, environmental conservation, and quality education, Deep Blue Divers has certified over a million divers since its inception. The organization is now looking to leverage the vast amount of data it has collected over the years to develop data products that can improve the overall diving experience and streamline training processes.
 ### Challenge:
